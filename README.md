@@ -15,7 +15,7 @@ The animation implementation is inspired by [Kavsoft's eCard animation example](
 ## Screenshots
 
 ![eCards Demo](assets/demo.gif)
-![Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" width=400>
 
 ## Technologies Used
 
