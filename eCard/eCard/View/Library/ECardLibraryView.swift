@@ -50,7 +50,7 @@ private extension ECardLibraryView {
             Spacer()
 
             NavigationLink(
-                destination: ECardLibraryView(),
+                destination: ECardCarousel(),
                 label: {
                     Image(systemName: layout.createButtonImageName)
                         .resizable()
